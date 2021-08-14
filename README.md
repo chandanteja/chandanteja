@@ -24,9 +24,12 @@
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=black&color=f8ff38) &nbsp;
 ![](https://img.shields.io/badge/Spring_Boot-informational?style=flat&logo=Spring&logoColor=black&color=f8ff38) &nbsp;
 ![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=Hibernate&logoColor=black&color=f8ff38) &nbsp; 
-#![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=black&color=f8ff38) &nbsp;
-#![](https://img.shields.io/badge/Android_Automotive-informational?style=flat&logo=Android&logoColor=black&color=f8ff38) &nbsp;
-#![](https://img.shields.io/badge/SELinux-informational?style=flat&logo=Linux&logoColor=black&color=f8ff38) &nbsp;
+
+<!--
+![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=black&color=f8ff38) &nbsp;
+![](https://img.shields.io/badge/Android_Automotive-informational?style=flat&logo=Android&logoColor=black&color=f8ff38) &nbsp;
+![](https://img.shields.io/badge/SELinux-informational?style=flat&logo=Linux&logoColor=black&color=f8ff38) &nbsp;
+-->
 
 ### 📜 Protocols
 ![](https://img.shields.io/badge/VLAN-informational?style=flat&logo=VLAN&logoColor=black&color=f8ff38) &nbsp;
