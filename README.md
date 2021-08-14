@@ -4,20 +4,20 @@
 ## 🔧 Skills
 
 ### 💻 Programming Languages
-![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=black&color=38fcff) &nbsp;
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&logoColor=black&color=38fcff) &nbsp;
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=black&color=38fcff) &nbsp;
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=black&color=38fcff)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=black&color=3293a8) &nbsp;
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&logoColor=black&color=3293a8) &nbsp;
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=black&color=3293a8) &nbsp;
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=black&color=3293a8)
 
 ### 🛠️ Tools
-![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=black&color=38ff59) &nbsp;
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=black&color=38ff59) &nbsp;
-![](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=Jenkins&logoColor=black&color=38ff59) &nbsp;
-![](https://img.shields.io/badge/Ansible-informational?style=flat&logo=Ansible&logoColor=black&color=38ff59) &nbsp;
-![](https://img.shields.io/badge/Maven-informational?style=flat&logo=Maven&logoColor=black&color=38ff59) &nbsp;
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=black&color=38ff59) &nbsp;
-![](https://img.shields.io/badge/ELK-informational?style=flat&logo=ELK&logoColor=black&color=38ff59) &nbsp;
-![](https://img.shields.io/badge/LaTex-informational?style=flat&logo=LaTex&logoColor=black&color=38ff59) &nbsp;
+![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=6b1515) &nbsp;
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=6b1515) &nbsp;
+![](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=6b1515) &nbsp;
+![](https://img.shields.io/badge/Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=6b1515) &nbsp;
+![](https://img.shields.io/badge/Maven-informational?style=flat&logo=Maven&logoColor=white&color=6b1515) &nbsp;
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=6b1515) &nbsp;
+![](https://img.shields.io/badge/ELK-informational?style=flat&logo=ELK&logoColor=white&color=6b1515) &nbsp;
+![](https://img.shields.io/badge/LaTex-informational?style=flat&logo=LaTex&logoColor=white&color=6b1515) &nbsp;
 
 
 ### 📝 Frameworks
