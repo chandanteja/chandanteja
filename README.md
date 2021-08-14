@@ -21,9 +21,9 @@
 
 
 ### 📝 Frameworks
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=590f27) &nbsp;
-![](https://img.shields.io/badge/Spring_Boot-informational?style=flat&logo=Spring&logoColor=white&color=590f27) &nbsp;
-![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=590f27) &nbsp; 
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=130f59) &nbsp;
+![](https://img.shields.io/badge/Spring_Boot-informational?style=flat&logo=Spring&logoColor=white&color=130f59) &nbsp;
+![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=130f59) &nbsp; 
 
 <!--
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=black&color=f8ff38) &nbsp;
